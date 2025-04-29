@@ -52,8 +52,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ```
 Developed by : SHRIRAM VR
 Register number : 212224040314
-```
-```py
+Department: BE CSE
+
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
