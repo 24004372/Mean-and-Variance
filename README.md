@@ -1,7 +1,9 @@
 # Exp 1: Mean and variance of a discrete  distribution
+## DEVELOPED BY : SHRIRAM VR
+## REG NO : 212224040314
+## DEPT : BE CSE
 
-# Date:29.04.25
-
+# Date:04.03.25
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
@@ -87,6 +89,5 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 # Results :
 
 
-The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
